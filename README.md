@@ -53,9 +53,12 @@ pressure - 呼吸回路で測定された気道圧力で、単位はcmH2Oです�
 kaggleの進め方記事
 
 https://qiita.com/shu421/items/ed255c1ad846c92ba448
+https://qiita.com/Java_is_a_sparrow/items/b4f4dd4a2c4530db5a72
 
 - discassion, notebookを全て読む
 - 時間をかける
 
+EDA
 
-
+https://www.kaggle.com/marutama/eda-about-lstm-feature-importance
+- LSTMとは→https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca
